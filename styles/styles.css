@@ -1,0 +1,75 @@
+body {
+    width: 100%;
+    font-family: "Manrope", sans-serif;
+    background-color: #F5F5F5;
+}
+
+.container {
+    width: 1400px;
+    margin: 0 auto;
+    padding: 125px;
+}
+
+h1 {
+    width: 956px;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    color: #121212;
+}
+
+.interior {
+    margin-top: 30px;
+    padding-top: 379px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    width: 1150px;
+    height: 500px;
+    background-image: url('../resources/interior-bg.jpg');
+}
+
+.interior .interior__text {
+    width: 430px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
+
+h2 {
+    margin-top: 150px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    color: #121212;
+}
+
+.description {
+    width: 1048px;
+    margin-top: 30px;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61px;
+    letter-spacing: -0.03em;
+    color: #121212;
+}
+
+.services {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 20px 40px;
+    border-radius: 5px;
+    background-color: #AD1818;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    text-decoration: none;
+    cursor: pointer;
+
+}
